@@ -43,7 +43,7 @@ const seedProducts = [
   },
   {
     name: "Celery",
-    price: 1.5,
+    price: 1.52,
     category: "vegetable",
   },
   {
