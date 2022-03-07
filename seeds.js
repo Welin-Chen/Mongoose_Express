@@ -48,7 +48,7 @@ const seedProducts = [
   },
   {
     name: "Milk",
-    price: 2.69,
+    price: 2.68,
     category: "dairy",
   },
 ];
